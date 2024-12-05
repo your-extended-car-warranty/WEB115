@@ -1,0 +1,38 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #e6ffff;
+}
+
+.banner {
+    top: 0;
+    left: 0;
+    width: 1280px;
+}
+
+fieldset {
+    border-width: 0px;
+    background-color: #bcb4fe;
+    width: fit-content;
+    margin: 0;
+}
+
+.flexy {
+    display: flex;
+}
+
+input {
+    text-align: center;
+    width: 168px;
+    text-wrap: wrap;
+}
+
+.label {
+    width:176px;
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
